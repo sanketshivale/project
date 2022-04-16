@@ -65,6 +65,6 @@ app.get("/posts/:postName", function(req, res){
 
 });
 
-app.listen(3000, function() {
-  console.log("Server has been started on port 3000, follow this link http://localhost:3000 to get started");
+app.listen(4000, function() {
+  console.log("Server has been started on port 3000, follow this link http://localhost:4000 to get started");
 });
